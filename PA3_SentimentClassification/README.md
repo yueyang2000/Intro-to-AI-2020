@@ -3,7 +3,7 @@
 Chinese Sentiment Classification with several deep learning models. Models: MLP、DAN、CNN、RNN、RCNN.
 
 - Embed words
-  Run `word2vec.py` script. Requires pre-trained word vectors `sgns.sougou.char`。Generates file`embed_train.npy, embed_test.npy, label_train.npy, label_test.npy` in the directory `data`。
+  Run `word2vec.py` script. Requires pre-trained word vectors `sgns.sougou.char`. Generates file`embed_train.npy, embed_test.npy, label_train.npy, label_test.npy` in the directory `data`.
 - Run
   Run `main.py` script，two args required: train/test, model_type. Example as follows. 
   Default setting: test CNN
