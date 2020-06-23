@@ -1,6 +1,6 @@
-# Assignments of Intro to AI
+# Intro to AI THU2020
 
-THU CST, 2020 Spring
+Introduction to artificial intelligence(人工智能导论), THU CST, 2020 Spring.
 
 PA1: Pinyin converter
 
